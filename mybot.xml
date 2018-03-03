@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aadiml>
+	<converse>
+		<quest>How are you?</quest>
+		<ans>I am fine.</ans>
+	</converse>
+
+	<converse>
+		<quest>Who are you?</quest>
+		<ans>I am your bot Bot</ans>
+	</converse>
+
+	<converse>
+		<quest>Who created you?</quest>
+		<ans>Inspiration</ans>
+	</converse>
+
+	<converse>
+		<quest>Give me Google stock update</quest>
+		<ans>Here it is...</ans>	
+	</converse>
+</aadiml>
